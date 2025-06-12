@@ -10,7 +10,9 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 *"A refrigerator runs constantly but doesn’t cool. Provide a diagnostic flow beginning with simple fixes.#
 
  -This is most likely a leaking compressor. First check and clean the coil filter located at the bottom of the fridge. remove the cover which usually can be snapped off. Then the best cleaning method is to use air to blow out the filter or try vacuuming. Next turn off the refridgerator for approximately 15 minutes and let the compressor cool to see if that resolves the issue.*
+ 
 #### 2. **DIY Repair Walkthroughs**  
+
 **Prompt Example**:  
 *"A toilet is running and will not shut off."*
 
