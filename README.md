@@ -16,8 +16,10 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"A toilet is running and will not shut off."*
 
--This is either a fill valve or a flush valve. The Fill valve is the float inside the toilet which rises and falls with the water level.  This can be bought separately and changed by removing the plastic nut underneath the tank. Using a pair of channel locks or pliers works best. The fill valve also has an adjustment screw that controls the water level. This can be adjusted with a screw driver. You do not want the water level too high in the tank which may cause the problem. 
--The flush valve is usually some kind of a stopper that allows the water to drain from the tank. Check to make sure there is no debris around the lip of the valve which can stop a tight seal. These can also be replaced separately. Both valves can be bought as a kit at any hardware store.
+1. This is either a fill valve or a flush valve. The Fill valve is the float inside the toilet which rises and falls with the water level.  This can be bought separately and changed by removing the plastic nut underneath the tank. Using a pair of channel locks or pliers works best. The fill valve also has an adjustment screw that controls the water level. This can be adjusted with a screw driver. You do not want the water level too high in the tank which may cause the problem. 
+
+2. The flush valve is usually some kind of a stopper that allows the water to drain from the tank. Check to make sure there is no debris around the lip of the valve which can stop a tight seal. These can also be replaced separately. Both valves can be bought as a kit at any hardware store.
+
 ---
 
 #### 3. **Preventive Maintenance Checklists**  
@@ -26,10 +28,10 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"Design a seasonal maintenance checklist for a gas water heater and furnace combo. Include safety steps, part inspection points, and efficiency tips."*
 
--regular filter changes based on the life of the filter usually a 1 to 3 month timeframe.
--check for any water around the bottom of the water heater
--keep the water heater clean from dirt and dust. sometimes dust buildup can happen around the pilot light which can be cleaned by vacuuming or blowing air at the bottom of the water heater. This requires that you shut the gas off and remove the cover and should most likely performed by a license plumber.
--check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue. make sure the alarm is in good working order.*
+1. First change the filter regularly based on the life of the filter usually a 1 to 3 month timeframe.
+2. Next check for any water around the bottom of the water heater
+3. Keep the water heater clean from dirt and dust. sometimes dust buildup can happen around the pilot light which can be cleaned by vacuuming or blowing air at the bottom of the water heater. This requires that you shut the gas off and remove the cover and should most likely performed by a license plumber.
+4. Lastly check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue. make sure the alarm is in good working order.*
 
 ---
 
@@ -39,11 +41,11 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"Water is leaking from under a kitchen sink.  Rank the most probable causes by likelyhood and safety of the DIY repair, how to temporarily stop water damage overnight, and how to determine if a plumber is needed."*
 
--first check that the valves under the sink are completely closed. If you have a gatevalve check to make sure the nut is tightened. These sometimes get loose over time
--Look for any dripping water around the drain pipes.
--tighten the water supply lines
--check for water at the base of the sink well. There is a gasket that may be failing.
--check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
+1. First check that the valves under the sink are completely closed. If you have a gatevalve check to make sure the nut is tightened. These sometimes get loose over time.
+2. Check for any dripping water around the drain pipes.
+3. Tighten the water supply lines
+4. Check for water at the base of the sink well. There is a gasket that may be failing.
+5. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
 #### 5. **Material & Tool Selection**  
 *Help users pick reliable, safe, and cost-effective solutions.*
 
