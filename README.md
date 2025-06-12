@@ -13,6 +13,7 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 #### 2. **DIY Repair Walkthroughs**  
 **Prompt Example**:  
 *"A toilet is running and will not shut off."*
+
 -This is either a fill valve or a flush valve. The Fill valve is the float inside the toilet which rises and falls with the water level.  This can be bought separately and changed by removing the plastic nut underneath the tank. Using a pair of channel locks or pliers works best. The fill valve also has an adjustment screw that controls the water level. This can be adjusted with a screw driver. You do not want the water level too high in the tank which may cause the problem. 
 -The flush valve is usually some kind of a stopper that allows the water to drain from the tank. Check to make sure there is no debris around the lip of the valve which can stop a tight seal. These can also be replaced separately. Both valves can be bought as a kit at any hardware store.
 ---
