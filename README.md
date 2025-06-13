@@ -52,9 +52,4 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 3. Tighten the water supply lines
 4. Check for water at the base of the sink well. There is a gasket that may be failing.
 5. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
-#### 5. **Material & Tool Selection**  
-*Help users pick reliable, safe, and cost-effective solutions.*
 
-**Prompt Example**:  
-*"Suggest adhesive options for bonding plexiglass to aluminum outdoors. Rate them based on durability, UV resistance, drying time, and user-friendliness."*
--silicone is the best option for bonding metal to plastic
