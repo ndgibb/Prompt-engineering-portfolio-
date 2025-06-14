@@ -9,7 +9,9 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"A refrigerator runs constantly but doesn’t cool. Provide a diagnostic flow beginning with simple fixes.#
 
- -This is most likely a leaking compressor. First check and clean the coil filter located at the bottom of the fridge. remove the cover which usually can be snapped off. Then the best cleaning method is to use air to blow out the filter or try vacuuming. Next turn off the refridgerator for approximately 15 minutes and let the compressor cool to see if that resolves the issue.*
+1. First check and clean the coil filter located at the bottom of the fridge. Remove the cover which usually can be snapped off. Then the best cleaning method is to use air to blow out the filter or try vacuuming.
+2. Next turn off the refridgerator for approximately 15 minutes and let the compressor cool to see if that resolves the issue.*
+3. Check the air filter if there is one and make sure any items in the refrigerator are not blocking air flow. Sometimes it can be too full if on the shelf next to the filter.
  
 #### **DIY Repair Walkthroughs**  
 
@@ -17,15 +19,14 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 *"A toilet is running and will not shut off."*
 
 **Toilet Repair Steps:**
-1. This is either a fill valve or a flush valve.
-2. Shut off the water valve under the toilet.
-3. Remove the plastic nut underneath the tank using channel locks or pliers.
-4. Install the new fill valve.  The Fill valve is the float inside the toilet which rises and falls with the water level.  This can be bought separately.
-5. The fill valve also has an adjustment screw that controls the water level. This can be adjusted with a screw driver. You do not want the water level too high in the tank which may cause the problem.
-6. The flush valve is usually some kind of a stopper that allows the water to drain from the tank.
-7. Check to make sure there is no debris around the lip of the valve which can stop a tight seal.
-8. These can also be replaced separately. Both valves can be bought as a kit at any hardware store.
-
+1. Shut off the water valve under the toilet.
+2. This is either a fill valve or flush valve issue. First check the flush valve to see if it is holding water.  The flush valve is usually some kind of a stopper that allows the water to drain from the tank.
+3. Check to make sure there is no debris around the lip of the valve which can stop a tight seal.
+4. Look for signs of wear such as cracks or thinning of the material. Replace if necessay.
+5. Next check the fill valve which is the float device that raises with the water level. If it does not raise fully then it has failed and needs replaced.
+6. Then check the water level.  The float contains a plastic screw which can be adjusted with a screw driver.  Sometimes lower the water level solves the problem.
+7. Replace the fill valve by draining the tank of water and removing the plastic nut under the tank which is attached to the fill valve.  A pair of channel locks work best.
+8. Also you will have to detach the fill hose which easily slides on and off.
 ---
 
 #### **Preventive Maintenance Checklists**  
@@ -34,10 +35,10 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"Design a seasonal maintenance checklist for a gas water heater and furnace combo. Include safety steps, part inspection points, and efficiency tips."*
 
-1. First change the filter regularly based on the life of the filter usually a 1 to 3 month timeframe.
+1. First change the filter on your furnance regularly based on the life of the filter usually a 1 to 3 month timeframe.
 2. Next check for any water around the bottom of the water heater
 3. Keep the water heater clean from dirt and dust around the pilot light located at the bottom of the water heater.
-4. Lastly check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue. make sure the alarm is in good working order.*
+4. Lastly check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue. Make sure the alarm is in good working order.*
 
 ---
 
@@ -48,8 +49,8 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 *"Water is leaking from under a kitchen sink.  Rank the most probable causes by likelyhood and safety of the DIY repair, how to temporarily stop water damage overnight, and how to determine if a plumber is needed."*
 
 1. First check that the valves under the sink are completely closed. If you have a gatevalve check to make sure the nut is tightened. These sometimes get loose over time.
-2. Check for any dripping water around the drain pipes.
+2. Check for any dripping water around the drain pipes and tighten each one if needed.  You may need to replace gaskets where the trap is connected.
 3. Tighten the water supply lines
-4. Check for water at the base of the sink well. There is a gasket that may be failing.
+4. Check for water at the base of the sink well. There is a gasket that may be failing where the neck pipe attaches to the sink. 
 5. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
 
