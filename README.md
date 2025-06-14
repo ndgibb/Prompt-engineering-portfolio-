@@ -1,7 +1,7 @@
 # Prompt-engineering-portfolio-Nathan Gibbs #
 Focus: Home Maintenance, Mechanical Repair & Real-World Troubleshooting  
 
-I'm a hands-on problem solver turned prompt engineer, building AI instructions from experience with tools, home systems, and real-world fixes. I have experience and skills in plumbing, electric, carpentry and mechanical maintenance. My goal: make AI more useful to homeowners, DIYers, and technicians.
+I'm a hands-on problem solver turned prompt engineer, building AI instructions from experience with tools, home systems, and real-world fixes. I have experience and skills in plumbing, electric, carpentry and mechanical maintenance. My goal: make AI more useful to homeowners, DIYers, and technicians. I base my prompts on the experience I have gain through my career and proven techniques I have learned using my hands-on approach in my personal life.
 
 ####  **Appliance Troubleshooting Prompts**  
 *Identify issues with home systems and suggest logical test paths.*
