@@ -19,19 +19,32 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 5. This is most likely a refrigerant leak somewhere or possibly an evaporator issue which will require a technician.  
  
 #### **DIY Repair Walkthroughs**  
+## 🚽 Toilet Repair Walkthrough  
 
-**Prompt Example**:  
-*"A toilet is running and will not shut off."*
+Follow these steps to diagnose and fix a **running toilet** that won't shut off.
 
-**Toilet Repair Steps:**
-1. Shut off the water valve under the toilet.
-2. This is either a fill valve or flush valve issue. First check the flush valve to see if it is holding water.  The flush valve is usually some kind of a stopper that allows the water to drain from the tank.
-3. Check to make sure there is no debris around the lip of the valve which can stop a tight seal.
-4. Look for signs of wear such as cracks or thinning of the material. Replace if necessay.
-5. Next check the fill valve which is the float device that raises with the water level. If it does not raise fully then it has failed and needs replaced.
-6. Then check the water level.  The float contains a plastic screw which can be adjusted with a screw driver.  Sometimes lower the water level solves the problem.
-7. Replace the fill valve by draining the tank of water and removing the plastic nut under the tank which is attached to the fill valve.  A pair of channel locks work best.
-8. Also you will have to detach the fill hose which easily slides on and off.
+### Step 1: Shut Off the Water  
+- Locate the water valve under the toilet and turn it **clockwise** to shut off the flow.
+
+### Step 2: Check the Flush Valve  
+- Inspect the stopper mechanism—this controls water draining from the tank.  
+- Ensure there’s no debris preventing a tight seal.  
+- Look for wear, such as **cracks or thinning material**. Replace if necessary.
+
+### Step 3: Check the Fill Valve  
+- The float device should rise with the water level.  
+- If it fails to rise **fully**, it’s likely defective and **needs to be replaced**.  
+- Check the water level—the float contains a **plastic screw** that can be adjusted with a screwdriver. Lowering the level **may resolve the issue**.  
+- Replace the **fill valve**:
+  1. Drain the tank by flushing and soaking up excess water.
+  2. Remove the **plastic nut** under the tank with channel locks.
+  3. Detach the **fill hose**, which easily slides on and off.
+  4. Install the new fill valve and reconnect components.
+
+### 🔧 **Final Check**  
+Once installed, turn the water valve **back on** slowly and monitor the toilet.  
+- If the issue persists, inspect for **silent leaks** or deeper plumbing faults.
+
 ---
 
 #### **Preventive Maintenance Checklists**  
