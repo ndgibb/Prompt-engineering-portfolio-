@@ -9,9 +9,11 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 **Prompt Example**:  
 *"A refrigerator runs constantly but doesn’t cool. Provide a diagnostic flow beginning with simple fixes.#
 
-1. First check and clean the coil filter located at the bottom of the fridge. Remove the cover which usually can be snapped off. Then the best cleaning method is to use air to blow out the filter or try vacuuming.
-2. Next turn off the refridgerator for approximately 15 minutes and let the compressor cool to see if that resolves the issue.*
-3. Check the air filter if there is one and make sure any items in the refrigerator are not blocking air flow. Sometimes it can be too full if on the shelf next to the filter.
+1. First check and clean the filter located at the bottom of the fridge. Remove the cover which usually can be snapped off.
+2. Then the best cleaning method is to use air to blow out the filter or try vacuuming. You want to clean under the refrigerator as much as possible.   
+3. Next turn off the refridgerator for approximately 15 minutes and let the compressor cool to see if that resolves the issue.*
+4. Check the air filter if there is one and make sure any items in the refrigerator are not blocking air flow. Sometimes it can be too full if on the shelf next to the filter.
+5. This is most likely a refigerant leak somewhere or possibly an evaporator issue which will require a technician.  
  
 #### **DIY Repair Walkthroughs**  
 
@@ -50,7 +52,7 @@ I'm a hands-on problem solver turned prompt engineer, building AI instructions f
 
 1. First check that the valves under the sink are completely closed. If you have a gatevalve check to make sure the nut is tightened. These sometimes get loose over time.
 2. Check for any dripping water around the drain pipes and tighten each one if needed.  You may need to replace gaskets where the trap is connected.
-3. Tighten the water supply lines
+3. Tighten the water supply lines.
 4. Check for water at the base of the sink well. There is a gasket that may be failing where the neck pipe attaches to the sink. 
 5. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
 
