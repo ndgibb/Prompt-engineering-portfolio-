@@ -43,7 +43,6 @@ Follow these steps to diagnose and fix a **running toilet** that won't shut off.
 
 ### 🔧 **Final Check**  
 Once installed, turn the water valve **back on** slowly and monitor the toilet.  
-- If the issue persists, inspect for **silent leaks** or deeper plumbing faults.
 
 ---
 
