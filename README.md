@@ -52,10 +52,13 @@ Once installed, turn the water valve **back on** slowly and monitor the toilet.
 **Prompt Example**:  
 *"Design a seasonal maintenance checklist for a gas water heater and furnace combo. Include safety steps, part inspection points, and efficiency tips."*
 
-1. First change the filter on your furnance regularly based on the life of the filter usually a 1 to 3 month timeframe.
+1. First replace furnace filters ever 1 to 3 months, depending on type and usage.
 2. Next check for any water around the bottom of the water heater
 3. Keep the water heater clean from dirt and dust around the pilot light located at the bottom of the water heater.
-4. Lastly check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue. Make sure the alarm is in good working order.*
+4. Lastly check your carbon monoxide alarm which is necessary for detecting if your water heater or furnace has a venting issue.
+   - Make sure the alarm is in good working order.
+   - Press the alarm test buttong to verify function.
+   - Replace batteries yearly or per manufacturer's guidance.
 
 ---
 
