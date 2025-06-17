@@ -68,17 +68,17 @@ Once installed, turn the water valve **back on** slowly and monitor the toilet.
 **Prompt Example**:  
 *"Water is leaking from under a kitchen sink.  Rank the most probable causes by likelihood and safety of the DIY repair, how to temporarily stop water damage overnight, and how to determine if a plumber is needed."*
 
-### Most likely causes and fixes
+**Most likely causes and fixes**
 1. First check that the **valves under the sink** are operating correctly by opening and closing the valves completely.  If you have a **gate valve** check to make sure the nut is tightened. These sometimes get loose over time.
 2. Check for any dripping water around the **drain pipes** and tighten each one if needed.  You may need to replace **gaskets** where the trap is connected.
 3. Inspect and tighten the **water supply lines**.
 4. Check for water at the base of the sink well. There is a gasket that may be failing where the neck pipe attaches to the sink.
 
-### Less common but possible issues
+**Less common but possible issues**
 1. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
 2. Check the **garbage disposal**.  These do corrode and fail over time.
 
-### Immediate Steps to prevent water damage
+**Immediate Steps to prevent water damage**
 1.  Use towels or a mop to soak up the affected area.
 2.  Use a bucket or container to catch the water.
 3.  If the leak is too hard to control, then **shut the water off completely** to the sink.  
