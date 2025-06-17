@@ -73,6 +73,7 @@ Once installed, turn the water valve **back on** slowly and monitor the toilet.
 3. Tighten the water supply lines.
 4. Check for water at the base of the sink well. There is a gasket that may be failing where the neck pipe attaches to the sink. 
 5. Check the wall and floor behind the sink thoroughly. There may be a leak coming from the vent which could be a roof leak somewhere.
+6. Check the garbage disposal.  These do corrode and fail over time.
 
 #### 🛡️ Safety Evaluation Prompt Example
 
