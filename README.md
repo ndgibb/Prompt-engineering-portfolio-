@@ -57,7 +57,7 @@ Once installed, turn the water valve **back on** slowly and monitor the toilet.
 3. Keep the water heater clean from dirt and dust around the pilot light located at the bottom of the water heater.
 4. Lastly check your **carbon monoxide alarm** which is necessary for detecting if your water heater or furnace has a venting issue.
    - Make sure the alarm is in good working order.
-   - Press the alarm test buttong to verify function.
+   - Press the alarm test button to verify function.
    - **Replace batteries yearly or per manufacturer's guidance**.
 
 ---
